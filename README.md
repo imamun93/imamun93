@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Iftekher Mamun, AKA Iffy
 
-<!--
-**imamun93/imamun93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data analyst with 5+ years of experience turning business problems into actionable data solutions. I specialize in marketing analytics, performance reporting, and workflow automation — with hands-on skills in Python, SQL, Tableau, and Excel.
 
-Here are some ideas to get you started:
+### 🔧 What I Do:
+- Build scalable data pipelines and reporting dashboards
+- Analyze A/B test results and drive marketing ROI
+- Automate reporting and reduce manual processes
+- Tell data stories with clean visuals and clear insight
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools & Tech:
+SQL • Python • Tableau • Excel • PostgreSQL • Streamlit • Google Analytics • Git
+
+### 📂 Featured Projects:
+- [A/B Testing Simulator](https://github.com/imamun93/ab-testing-simulator) *(coming soon!)*
+- [Marketing Campaign Dashboard](#)
+- [Customer Segmentation Analysis](#)
+
+### 💼 LinkedIn:
+[linkedin.com/in/iftekher-mamun](https://www.linkedin.com/in/iftekher-mamun/)
+
+---
+
+Let’s build, test, and share great work.
