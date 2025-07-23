@@ -12,7 +12,9 @@ I'm a data analyst with 5+ years of experience turning business problems into ac
 SQL • Python • Tableau • Excel • PostgreSQL • Streamlit • Google Analytics • Git
 
 ### 📂 Featured Projects:
-- [A/B Testing Simulator](https://github.com/imamun93/ab-testing-simulator) *(coming soon!)*
+- [A/B Testing Simulator](https://github.com/imamun93/ab-testing-simulator)
+
+## Future Projects:
 - [Marketing Campaign Dashboard](#)
 - [Customer Segmentation Analysis](#)
 
