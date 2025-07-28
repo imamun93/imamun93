@@ -13,6 +13,7 @@ SQL • Python • Tableau • Excel • PostgreSQL • Streamlit • Google Ana
 
 ### 📂 Featured Projects:
 - [A/B Testing Simulator](https://github.com/imamun93/ab-testing-simulator)
+- [Expert Contributor Funnel Simulation](https://github.com/imamun93/Expert-Contributor-Funnel-Simulation/tree/main)
 
 ## Future Projects:
 - [Marketing Campaign Dashboard](#)
