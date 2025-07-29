@@ -16,7 +16,7 @@ SQL • Python • Tableau • Excel • PostgreSQL • Streamlit • Google Ana
 - [Expert Contributor Funnel Simulation](https://github.com/imamun93/Expert-Contributor-Funnel-Simulation/tree/main)
 
 ## Future Projects:
-- [Marketing Campaign Dashboard](#)
+- [Marketing Campaign Dashboard](https://github.com/imamun93/Marketing-Campaign-Dashboard/tree/main)
 - [Customer Segmentation Analysis](#)
 
 ### 💼 LinkedIn:
